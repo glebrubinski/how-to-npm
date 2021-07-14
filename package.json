@@ -3,9 +3,21 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glebrubinski/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/glebrubinski/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/glebrubinski/how-to-npm#readme",
   "description": ""
 }
